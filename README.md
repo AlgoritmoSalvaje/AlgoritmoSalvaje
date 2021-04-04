@@ -1,4 +1,4 @@
- 👋 Algoritmo Salvaje es formación y orientación laboral para programadores, estudiantes de informática y personas que piensan estudiar algo relacionado con el sector. <br>
+ 👋 Algoritmo Salvaje es orientación laboral y formación para programadores y (futuros) estudiantes de informática. Formación para IT Recruiters. <br>
  👀 Aquí encontrarás todos los ejercicios resueltos de los cursos de formación en programación de nuestra web (https://www.algoritmosalvaje.com/). <br>
  🌱 Nuestra formación además de ser 100% gratuita no sólo fomenta hard skills, sino también soft skills. Además, no me interesa sólo qué funcione, sino también qué comprendas por qué funciona. Y todo ello de una manera lo más sencilla posible. <br>
  💞️ Tuitea tus dudas para que la comunidad te ayude con el hashtag #SoySalvajeHTMLCSS. <br>
